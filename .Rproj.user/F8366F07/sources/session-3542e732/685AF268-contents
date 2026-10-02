@@ -1,0 +1,16 @@
+---
+title: "Artemio Perez"
+image: IMG_7950.jpeg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ArtemioPerez1547246
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/artemio-perez-ab296342a
+    - icon: inboxes
+      text: Contact
+      href: mailto:artemiop@uark.edu
+---

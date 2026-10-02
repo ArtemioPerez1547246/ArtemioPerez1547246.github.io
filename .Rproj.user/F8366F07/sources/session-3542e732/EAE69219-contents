@@ -8,10 +8,11 @@ website:
     right:
       - text: About
         href: index.qmd
-      - text: Projects
-        href: projects.qmd
       - text: Resume
         href: resume.qmd
+      - text: Projects
+        href: projects.qmd
+
       
 format:
   html:

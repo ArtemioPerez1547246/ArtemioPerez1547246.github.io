@@ -3,7 +3,10 @@
     "rmdVisualWrapConfigured": "true",
     "source_window_id": "",
     "Source": "Source",
-    "cursorPosition": "9,0",
+    "cursorPosition": "7,0",
     "scrollLine": "0",
-    "ignored_words": "Artemio\n"
+    "ignored_words": "Artemio\n",
+    "docOutlineVisible": "1",
+    "rmdVisualModeLocation": "2:0",
+    "rmdVisualCollapsedChunks": ""
 }
